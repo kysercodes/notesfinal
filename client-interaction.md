@@ -11,3 +11,17 @@
 # querySelrctorAll
 ##### can be used for classes to select the multiple elementscd 
 
+# innerHTML
+
+##### The Element property innerHTML gets or sets the HTML or XML markup contained within the element.
+
+# Name attribute
+##### used when you have an input inside of a form alloes you to access input easier
+
+# Submit 
+##### submit is another event
+
+# .preventDefault()
+
+##### keeps the default behavior of e from firing
+
