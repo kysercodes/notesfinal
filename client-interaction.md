@@ -25,3 +25,12 @@
 
 ##### keeps the default behavior of e from firing
 
+# .elements
+
+##### elements gives you access to
+
+## input Checkbox /Label
+##### for the input inside of label typically you can add text next to the input tag next to the checkbox also if you click the text it will check the box
+
+## .checked is a property on checkbox and is returns a boolean
+
