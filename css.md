@@ -36,3 +36,10 @@
 ##### A gradient is when one color transitions into another. The CSS linear-gradient function lets you control the direction of the transition along a line, and which colors are used.
 
 ##### gradientDirection is the direction of the line used for the transition. color1 and color2 are color arguments, which are the colors that will be used in the transition itself. These can be any type of color, including color keywords, hex, rgb, or hsl. also if n gradient direction is set 180 will be set automatically
+
+## border left
+
+##### The border-left shorthand property lets you to set the left border's width, style, and color at the same time. border-left: width style color;
+
+
+
