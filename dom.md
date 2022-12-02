@@ -28,4 +28,4 @@
 
 # textcontent
 
-### textcontent property allows you to read the textxontent of an element
+### textcontent property allows you to read the textxontent of an elementcd 

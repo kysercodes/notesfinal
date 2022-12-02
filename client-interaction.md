@@ -16,7 +16,7 @@
 ##### The Element property innerHTML gets or sets the HTML or XML markup contained within the element.
 
 # Name attribute
-##### used when you have an input inside of a form alloes you to access input easier
+##### used when you have an input inside of a form allows you to access input easier you can target this in JS usin e.target.elements.whateverName.value
 
 # Submit 
 ##### submit is another event
@@ -33,4 +33,10 @@
 ##### for the input inside of label typically you can add text next to the input tag next to the checkbox also if you click the text it will check the box
 
 ## .checked is a property on checkbox and is returns a boolean
+
+## Label
+##### you can put checkbox (or any input)input  inside of label to add text next to your checkbox, text is clickable (be sure to get rid of for attribute will throw off clickability)
+
+# Dropdown
+##### use select tag with option tag inside of it
 
