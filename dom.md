@@ -21,3 +21,11 @@
 #### selects element you want i  parens can be any html element
 
 ## appendchild appends element to the end of whatever element you selected
+
+# document query selector
+
+### you can assign a variable a value of x = document.querySelector
+
+# textcontent
+
+### textcontent property allows you to read the textxontent of an element
