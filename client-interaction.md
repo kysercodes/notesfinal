@@ -38,5 +38,8 @@
 ##### you can put checkbox (or any input)input  inside of label to add text next to your checkbox, text is clickable (be sure to get rid of for attribute will throw off clickability)
 
 # Dropdown
-##### use select tag with option tag inside of it
+##### use select tag with option tag inside of itcd
+
+# Live Filtering
+##### live filtering can be done for the first part of using the input event as you type each time into an input  etc
 

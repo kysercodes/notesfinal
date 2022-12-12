@@ -29,3 +29,7 @@
 # textcontent
 
 ### textcontent property allows you to read the textxontent of an elementcd 
+
+## Target
+#### target is a representation of the  dom element, you can get the element that the event was fired on e.target etc
+
