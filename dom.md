@@ -33,3 +33,7 @@
 ## Target
 #### target is a representation of the  dom element, you can get the element that the event was fired on e.target etc
 
+
+## dropdowns
+
+### dropdowns are created by using the select tag and nesting option tags with in and using a value with the option tags

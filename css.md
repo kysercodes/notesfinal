@@ -90,3 +90,7 @@
 
 ### overflow
 ##### The overflow property controls what happens to content that spills, or overflows, outside its box. hidden—when set to this value, any content that overflows will be hidden from view.croll—when set to this value, a scrollbar will be added to the element’s box so that the rest of the content can be viewed by scrolling.visible—when set to this value, the overflow content will be displayed outside of the containing element. Note, this is the default value.
+
+
+# Flexbox
+### There are two important components to a flexbox layout: flex containers and flex items. A flex container is an element on a page that contains flex items. All direct child elements of a flex container are flex items. This distinction is important because some of the properties you will learn in this lesson apply to flex containers while others apply to flex items.
