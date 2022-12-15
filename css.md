@@ -94,3 +94,16 @@
 
 # Flexbox
 ### There are two important components to a flexbox layout: flex containers and flex items. A flex container is an element on a page that contains flex items. All direct child elements of a flex container are flex items. This distinction is important because some of the properties you will learn in this lesson apply to flex containers while others apply to flex items.
+
+## Flex Grow is used on flex items The flex-grow property allows us to specify if items should grow to fill a container and also which items should grow proportionally more or less than others.
+
+## Another way of specifying the width of a flex item is with the flex-basis property
+
+## flex (property)
+##### The shorthand flex property provides a convenient way for specifying how elements stretch and shrink, while simplifying the CSS required. The flex property allows you to declare flex-grow, flex-shrink, and flex-basis all in one line.
+
+## flex-wrap
+##### Sometimes, we don’t want our content to shrink to fit its container. Instead, we might want flex items to move to the next line when necessary. This can be declared with the flex-wrap The flex-wrap property is declared on flex containers
+
+## align content
+##### align-items is for aligning elements within a single row. If a flex container has multiple rows of content, we can use align-content to space the rows from top to bottom.
