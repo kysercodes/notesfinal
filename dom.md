@@ -37,3 +37,5 @@
 ## dropdowns
 
 ### dropdowns are created by using the select tag and nesting option tags with in and using a value with the option tags
+ ## Javascript 
+ #### notes here 
